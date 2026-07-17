@@ -4,7 +4,7 @@ project:
   title: "2:1 Mux with differential outputs" # Project title
   author: "Victor Suarez Rovere" # Your name
   discord: "suarezvictor" # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description: "4 intances of 2:1 mux which tries to minimize logic hazards" # One line description of what your project does
+  description: "4 instances of 2:1 mux which tries to minimize logic hazards" # One line description of what your project does
   language: "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz: 0 # Clock frequency in Hz (or 0 if not applicable)
 
